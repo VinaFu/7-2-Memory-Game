@@ -1,0 +1,8 @@
+
+#grid {
+    width: 500px;
+    height:380px;
+    display: flex;
+    flex-wrap: wrap;     /* get rid of the space */
+
+}
